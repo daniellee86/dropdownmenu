@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dropdownmenu/static/css/main.69d4f178.css",
+    "main.js": "/dropdownmenu/static/js/main.a3a6f0aa.js",
+    "static/media/cog.svg": "/dropdownmenu/static/media/cog.993d7c5e3a2dd5707c5ee355d958e91e.svg",
+    "static/media/bell.svg": "/dropdownmenu/static/media/bell.636d2ea1c2d76edb7ee6f4e773a3d2e5.svg",
+    "index.html": "/dropdownmenu/index.html",
+    "static/media/messenger.svg": "/dropdownmenu/static/media/messenger.564844da049d8cd316a0c93611dcb857.svg",
+    "static/media/chevron.svg": "/dropdownmenu/static/media/chevron.2cb08749618bb90ef5d02d04cc88c3b9.svg",
+    "static/media/arrow.svg": "/dropdownmenu/static/media/arrow.2eaf1aceae4d63bcb10a65f89ebdfc9a.svg",
+    "static/media/plus.svg": "/dropdownmenu/static/media/plus.0d2d9f7cf64d7e8caf1c15f950de2f0f.svg",
+    "static/media/bolt.svg": "/dropdownmenu/static/media/bolt.4e385e035f3877dd4b35d586410fd2e7.svg",
+    "static/media/caret.svg": "/dropdownmenu/static/media/caret.1a2e47a8221a49b70ee8a1f010ca6560.svg",
+    "main.69d4f178.css.map": "/dropdownmenu/static/css/main.69d4f178.css.map",
+    "main.a3a6f0aa.js.map": "/dropdownmenu/static/js/main.a3a6f0aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69d4f178.css",
+    "static/js/main.a3a6f0aa.js"
+  ]
+}
